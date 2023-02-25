@@ -17,6 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 #� �f�o�o�d�-�f�r�e�n�z�y�
 �
 �
-![](https://github.com/codejuni/food-frenzy/blob/main/Screenshot_2023.02.25_11.16.22.859.png)
+![](https://github.com/codejuni/food-frenzy/blob/main/Screenshot_2023.02.25_11.15.09.586.png)
 ![](https://github.com/codejuni/food-frenzy/blob/main/Screenshot_2023.02.25_11.15.44.894.png)
 ![](https://github.com/codejuni/food-frenzy/blob/main/Screenshot_2023.02.25_11.16.22.859.png)
